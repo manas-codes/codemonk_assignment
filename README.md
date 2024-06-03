@@ -122,7 +122,7 @@ Make sure you have the following installed on your system:
 
 ## Postman Documentation
 
-For detailed API documentation and testing, please refer to the [Postman Documentation](https://documenter.getpostman.com/view/29726683/2sA3Qwb9mC).
+For detailed API documentation and testing, please refer to the [Postman Documentation for this application](https://documenter.getpostman.com/view/29726683/2sA3Qwb9mC).
 
 ## License
 
